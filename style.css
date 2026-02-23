@@ -1,0 +1,38 @@
+#myHeader{
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 3em;
+    font-family: Arial;
+    font-style: Bold;
+}
+
+#btnContainer{
+    text-align: center;
+
+}
+
+.Buttons{
+    padding: 10px 20px;
+    font-size: 1em;
+    color: aquamarine;
+    background-color: rgba(0, 0, 0, 0.297);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.Buttons:hover{
+    background-color: rgba(0, 0, 0, 0.664);
+}
+
+#messageLabel{
+    text-align: center;
+    color: red;
+    font-style: bold italic;
+    font-size: 1em;
+}
+
